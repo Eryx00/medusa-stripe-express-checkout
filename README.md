@@ -1,1 +1,0 @@
-# medusa-stripe-express-checkout
